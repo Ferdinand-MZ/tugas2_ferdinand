@@ -1,0 +1,7 @@
+ferdinandmz\pencatatan\buku\entity\Book.class
+ferdinandmz\pencatatan\buku\repository\BookRepository.class
+ferdinandmz\pencatatan\buku\repository\impl\BookRepositoryImpl.class
+ferdinandmz\pencatatan\buku\service\BookService.class
+ferdinandmz\pencatatan\buku\App.class
+ferdinandmz\pencatatan\buku\service\impl\BookServiceImpl.class
+ferdinandmz\pencatatan\buku\util\DatabaseUtil.class
